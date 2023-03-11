@@ -1,2 +1,2 @@
-# relogio_html_css_js
- Simple Clock
+# html_css_js_clock
+A simple Clock.
